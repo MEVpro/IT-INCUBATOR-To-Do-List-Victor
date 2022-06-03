@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e45deff-92f0-4173-a1c9-f7ad4f2a5a7e" name="Changes" comment="" />
+    <list default="true" id="7e45deff-92f0-4173-a1c9-f7ad4f2a5a7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +84,7 @@
       <workItem from="1654023795886" duration="28000" />
       <workItem from="1654190903220" duration="1985000" />
       <workItem from="1654194433366" duration="404000" />
+      <workItem from="1654259082931" duration="228000" />
     </task>
     <servers />
   </component>
