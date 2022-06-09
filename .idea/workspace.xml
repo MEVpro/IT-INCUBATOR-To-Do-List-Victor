@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e45deff-92f0-4173-a1c9-f7ad4f2a5a7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson 2/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson 2/TodoList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/to-do-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/to-do-list.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoList.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mevac/My Drive/GitHub/iT-incubator/to-do-list-Victor&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT-INCUBATOR-to-do-list-Victor/src/Lesson 2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,10 +55,18 @@
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\mevac\\WebstormProjects\\GitHub\\iT-incubator\\to-do-list-victor\\node_modules\\typescript\\lib&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IT-INCUBATOR-to-do-list-Victor\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT-INCUBATOR-to-do-list-Victor\src\Lesson 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT-INCUBATOR-to-do-list-Victor\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -85,6 +99,9 @@
       <workItem from="1654190903220" duration="1985000" />
       <workItem from="1654194433366" duration="404000" />
       <workItem from="1654259082931" duration="228000" />
+      <workItem from="1654758940839" duration="1882000" />
+      <workItem from="1654761034544" duration="2519000" />
+      <workItem from="1654763586116" duration="3115000" />
     </task>
     <servers />
   </component>
