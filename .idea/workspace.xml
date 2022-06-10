@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e45deff-92f0-4173-a1c9-f7ad4f2a5a7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson 2/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 2/TodoList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/to-do-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/to-do-list.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +95,9 @@
       <workItem from="1654758940839" duration="1882000" />
       <workItem from="1654761034544" duration="2519000" />
       <workItem from="1654763586116" duration="3115000" />
+      <workItem from="1654780227572" duration="488000" />
+      <workItem from="1654780734186" duration="71000" />
+      <workItem from="1654858353180" duration="6217000" />
     </task>
     <servers />
   </component>
