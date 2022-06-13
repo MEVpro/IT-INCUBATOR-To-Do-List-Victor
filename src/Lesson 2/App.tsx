@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
 import TodoList, {TaskType} from './TodoList';
-import {v1} from "uuid";
 
 export type FilterValuesType = "all" | "active" | "completed"
 
@@ -9,17 +8,12 @@ function App() {
     // BLL: - Business logic layer
     const [tasks_1, setTasks] = useState<Array<TaskType>>([
         // const tasks_1: Array<TaskType> = [
-        {id: v1(), title: 'HTML&CSS', isDone: true},
-        {id: v1(), title: 'JS', isDone: true},
-        {id: v1(), title: 'REACT', isDone: false}
+        {id: 1, title: 'HTML&CSS', isDone: true},
+        {id: 2, title: 'JS', isDone: true},
+        {id: 3, title: 'REACT', isDone: false}
     ])
 
-    const addTask = (title: string) => {
-        const newTask: TaskType = {id: v1(), title: title, isDone: false}
-        setTasks([newTask, ...tasks_1])
-    }
-
-    const removeTask = (taskID: string) => {
+    const removeTask = (taskID: number) => {
         const filteredTasks = tasks_1.filter(task => task.id !== taskID)
         setTasks(filteredTasks)
     }
@@ -50,6 +44,8 @@ function App() {
             tasksForRender = tasks_1
     }
 
+
+
     /*
        const tasks_2: Array<TaskType> = [
            {id: 4, title: 'Meat', isDone: true},
@@ -66,12 +62,7 @@ function App() {
     // UI: - User Interface
     return (
         <div className="App">
-            <TodoList
-                title={"What to do"}
-                tasks={tasksForRender}
-                addTask={addTask}
-                removeTask={removeTask}
-                changeTodoListFilter={changeTodoListFilter}/>
+            <TodoList title={"What to do"} tasks={tasksForRender} removeTask={removeTask} changeTodoListFilter={changeTodoListFilter}/>
             {/*<TodoList title={"What to buy"} tasks={tasks_2}/>*/}
             {/*<TodoList title={"What to read"} tasks={tasks_3}/>*/}
         </div>
